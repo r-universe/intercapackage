@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "interca"]
 	path = interca
 	url = https://github.com/cran/interca
-	shallow = true
-	registered = true
